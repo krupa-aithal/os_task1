@@ -176,8 +176,4 @@ Install Python dependencies using:
 pip install tensorflow numpy matplotlib pillow
 ```
 
----
 
-## Releases
-
-No releases published
