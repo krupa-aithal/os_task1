@@ -109,11 +109,10 @@ The animation shows:
 
 ### 🎬 Animation Output
 
-<video src="animation.gif.mp4" controls width="600">
+<video src="https://github.com/user-attachments/assets/f35e343d-7287-4cf6-af76-6ed85e778805" controls width="600">
   Your browser (or GitHub's viewer) can't play the embedded video —
   <a href="https://github.com/user-attachments/assets/f35e343d-7287-4cf6-af76-6ed85e778805">click here to download/view it directly</a>.
 </video>
-
 
 ### ▶️ Installation
 
